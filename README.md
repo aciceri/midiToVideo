@@ -7,3 +7,5 @@ However I had no time to do that, maybe in the future I will update this.
 
 What this repo contains are simply some funny experiments I did playing with Python and libraries [MoviePy](https://zulko.github.io/moviepy/) and [Mido](https://github.com/mido/mido),
 and it has no claims to be taken seriously. 
+
+[![Demo](http://img.youtube.com/vi/2ohxGVv6ngY/0.jpg)](http://www.youtube.com/watch?v=2ohxGVv6ngY "Demo")
